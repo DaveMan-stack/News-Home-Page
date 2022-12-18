@@ -22,23 +22,24 @@ Your users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ## How I did it
-First I download the started files which contains the all the designs the instructions on how to build the site.
-After which I immediately start coding no waste of time.
+
+First I download the starter files which contains the all the designs the instructions on how to build the site.
+After which I immediately start coding **ASAP** no waste of time.
 
 **Best practices** 
-Like the use of variables for my css color, background, gap, font-size etc values.
-Function to select an element in the dom.
-Sematic Elements.
-Comments
-Readable classes
+- Like the use of variables for my css color, background, gap, font-size etc values.
+- Function to select an element in the dom.
+- Sematic Elements.
+- Comments
+- Readable classes
 
-I use no Framework whatsoever everthing was pure from vanilla javascript to pure html and pure css.
+I use **no Framework** whatsoever everthing was pure from **vanilla javascript** to **pure html** and **pure css**.
 
 If you are reading this and want to do the same like me, I will encourage you to give it a shot. You learn by doing, that's basically my phillosophy, and it's true you learn more when you practice whatever little knowledge you've gain.
 
 
-**Heres my site** [News-Home-Page](https://startling-concha-720f28.netlify.app/)
-**Here's the [repository](https://github.com/DaveMan-stack/News-Home-Page/)
+**Heres my site:** [News-Home-Page](https://startling-concha-720f28.netlify.app/)
+**Here's the [repository](https://github.com/DaveMan-stack/News-Home-Page/)**
 
 
 **Have fun Coding!** 🚀
