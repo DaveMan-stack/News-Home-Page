@@ -234,6 +234,7 @@ nav.activated .list {
     width: 70%;
     transform: scale(1);
     opacity: 1;
+    transition: width: .25s ease-in;
 
 }
 
